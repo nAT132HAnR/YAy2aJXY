@@ -330,7 +330,6 @@ The following are a collection of recently-released pen test tools. I update thi
 - [Arjun v1.6 - HTTP Parameter Discovery Suite](http://feedproxy.google.com/~r/PentestTools/~3/7DM5VIonrMM/arjun-v16-http-parameter-discovery-suite.html)
 - [HomePwn - Swiss Army Knife for Pentesting of IoT Devices](http://feedproxy.google.com/~r/PentestTools/~3/nMwihlR0QFM/homepwn-swiss-army-knife-for-pentesting.html)
 - [Femida - Automated Blind-Xss Search For Burp Suite](http://feedproxy.google.com/~r/PentestTools/~3/hcIniCfTwFk/femida-automated-blind-xss-search-for.html)
-- [Slither v0.6.7 - Static Analyzer For Solidity](http://feedproxy.google.com/~r/PentestTools/~3/vb_PZS9dudM/slither-v067-static-analyzer-for.html)
 - [AutoMacTC - Automated Mac Forensic Triage Collector](http://feedproxy.google.com/~r/PentestTools/~3/todwtrFFW70/automactc-automated-mac-forensic-triage.html)
 - [Password Lense - Reveal Character Types In A Password](http://feedproxy.google.com/~r/PentestTools/~3/saysdQ-Pmq0/password-lense-reveal-character-types.html)
 - [Osmedeus v2.1 - Fully Automated Offensive Security Framework For Reconnaissance And Vulnerability Scanning](http://feedproxy.google.com/~r/PentestTools/~3/TAqtz2izPm4/osmedeus-v21-fully-automated-offensive.html)
