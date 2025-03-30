@@ -7,7 +7,6 @@
 ! pyproject.toml
 ! poetry.lock
 ! poetry.toml
-! webcam_filters
 
 # exclude pycache
 **/*.pyc
