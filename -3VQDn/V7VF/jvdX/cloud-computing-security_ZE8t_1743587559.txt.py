@@ -454,7 +454,6 @@ if LOGOUT_URL is None:
 if LOGIN_ERROR is None:
     LOGIN_ERROR = WEBROOT + 'auth/error/'
 if LOGIN_REDIRECT_URL is None:
-    LOGIN_REDIRECT_URL = WEBROOT
 
 if MEDIA_ROOT is None:
     MEDIA_ROOT = os.path.abspath(os.path.join(ROOT_PATH, '..', 'media'))
