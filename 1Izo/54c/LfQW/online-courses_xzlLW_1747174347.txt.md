@@ -32,7 +32,6 @@
 
 7. (Optional) Install [ninja](https://github.com/ninja-build).
     
-    ```
     $ sudo apt install ninja-build
     ```
     
