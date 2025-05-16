@@ -253,7 +253,6 @@ LANGUAGES = (
     ('it', 'Italian'),
     ('ja', 'Japanese'),
     ('ko', 'Korean (Korea)'),
-    ('pl', 'Polish'),
     ('pt-br', 'Portuguese (Brazil)'),
     ('ru', 'Russian'),
     ('tr', 'Turkish'),
