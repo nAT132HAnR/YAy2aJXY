@@ -302,7 +302,6 @@ SECURITY_GROUP_RULES = {
         'to_port': '65535',
     },
     'all_udp': {
-        'name': _('All UDP'),
         'ip_protocol': 'udp',
         'from_port': '1',
         'to_port': '65535',
