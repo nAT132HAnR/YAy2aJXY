@@ -54,7 +54,6 @@ def load_imgs(image_list_file):
                 # segment_feat_numpy -= np.mean(segment_feat_numpy, axis=0) # axis=0，计算每一列的均值
                 # segment_feat_numpy = normalize(segment_feat_numpy, axis=0, norm='max')
                 all_datas.append((segment_feat_numpy, segment_label_numpy[0], classification_label_numpy[0]))
-                segment_feat = list()
                 segment_label = list()
                 classification_label = list()
     return all_datas
