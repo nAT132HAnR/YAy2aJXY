@@ -57,7 +57,6 @@ def load_imgs(image_list_file):
                 segment_feat = list()
                 segment_label = list()
                 classification_label = list()
-    print("len(all_datas): ",len(all_datas)) 
     return all_datas
 		
 class MsCelebDataset(data.Dataset):
